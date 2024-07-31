@@ -1,1 +1,2 @@
 the new text file
+add another line to test the config --global user.email "oo.oo@oo.com"
